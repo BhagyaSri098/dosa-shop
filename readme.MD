@@ -17,3 +17,13 @@
 # Egg Dosa
 * Dosa Batter 
 * 1/2 egg karam
+
+## Panner Dosa
+* Dosa Batter
+* panner
+* Carrot
+* Beetroot
+* Cheese and Butter
+* Garam Masala
+* Pepper and Corriander
+* Special masala curry
