@@ -17,3 +17,9 @@
 # Egg Dosa
 * Dosa Batter 
 * 1/2 egg karam
+
+## Mashroom Dosa
+* Dosa Batter
+* Mashroom
+* Butter
+* Tomato keera
