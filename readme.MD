@@ -26,3 +26,4 @@
 * Cheese and Butter
 * Garam Masala
 * Pepper and Corriander
+* Special masala curry
